@@ -42,7 +42,7 @@ This steps add axons to the median nerve, and create a neuron model for each.
 This step adds nerve endings that start in the SAT and protrude into the skin.
 
 - The first step here is potentially the trickiest. Using the Spline tool (within sketch), draw a spline just below the interface between the SAT and Skin, as shown below. In this example, the spline is defined by 10 points. 
-![Spline example](./Spline example.png)
+![Spline example](https://github.com/Leen-Jabban/TIS_Comfort/blob/main/Spline%20example.png)
 - load up **populate_nerve_endings.py**. 
 - Update the paths and model name, similar to step 3
 - You are now ready to run the code.
