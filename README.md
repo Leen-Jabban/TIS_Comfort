@@ -18,7 +18,8 @@ The steps below provide an overview of how the code works.
 Start by creating a new blank project in sim4life. 
 
 ### 2. Import arm simplified model
-This step uploads the arm model and sets up the 
+This step uploads the arm model and ensures the parts are set up properly for the simulation to run. 
+
 - Upload the .step file. Please see Figure 2 in the paper for what to expect.
 - Rename the different body parts to match the following:'Skin','SAT','Muscle','Radius','Ulna','Ulnar Nerve','Median Nerve','Superficial Radial Nerve'
 - Rename the two electrode bodies: 'Gel 1' and 'Gel 2'. *Note: It does not matter that the gel is actually within the body, because the different priorities set before creating the voxels will deal with this (this is part of the python script)*
