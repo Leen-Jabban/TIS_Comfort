@@ -3,7 +3,7 @@ This a repository for codes used to run the simulations outlined in the paper 'T
 
 
 ## Important Notes
-Please note that this code was written to be used with Sim4life light V7.2 (desktop). As of the last test (Aug 2024), the code was compatible with the latest S4L Lite web version. 
+Please note that this code was written to be used with [Sim4life](https://sim4life.swiss/) light V7.2 (desktop). As of the last test (Aug 2024), the code was compatible with the latest S4L Lite web version. 
 
 The 3D models are generated based on MRIs from Schimmoeller et al.'s paper (citation below).
 
