@@ -15,7 +15,7 @@ The steps below provide an overview of how the code works.
 
 ### 1. Create a new project
 
-Start by creating a new blank project in sim4life. The github repository could be linked to that account. 
+Start by creating a new blank project in sim4life. 
 
 ### 2. Import arm simplified model
 This step uploads the arm model and sets up the 
