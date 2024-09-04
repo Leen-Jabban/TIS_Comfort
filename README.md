@@ -11,7 +11,7 @@ The 3D models are generated based on MRIs from Schimmoeller et al.'s paper (cita
 
 
 ## Instructions 
-The steps below provide an overview of how the code works. 
+The steps below provide an overview of how the code works. Please note that the paths will need to be changed to where you would like the model and/or results to be saved. The code has been commented to highlight where the path needs changing. 
 
 ### 1. Create a new project
 
