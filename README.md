@@ -1,5 +1,5 @@
 # The Comfort of Temporal Interference Stimulation on the Forearm: Computational and Psychophysical Evaluation
-This a repository for codes used to run the simulations outlined in the paper 'The Comfort of Temporal Interference Stimulation on the Forearm: Computational and Psychophysical Evaluation'. For further information, please refer to the paper. 
+This a repository for the scripts used to run the simulations outlined in the paper 'The Comfort of Temporal Interference Stimulation on the Forearm: Computational and Psychophysical Evaluation'. The results from the Psychophysical experiment are available in the .zip file. For further information, please refer to the paper. 
 
 
 ## Important Notes
